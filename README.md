@@ -2,7 +2,7 @@
 
 Forecasting System - Project Demand of Products at a Retail Outlet Based on Historical Data
 ### Project Description
-**Project Objective & Brief**: Here i have developed a forecasting system with the help of ARIMA models and facebook's prophet library. This for forecasting system is used for predicting the demand for products at a retail outlet based on historical data.
+**Project Objective & Brief**: Here i have developed a forecasting system with the help of ARIMA models. This is for forecasting system used for predicting the demand for products at a retail outlet based on historical data.
 
 #### Project Guidelines :
 1. Create a dataset , clean the dataset and also sanitize it.
@@ -11,8 +11,8 @@ Forecasting System - Project Demand of Products at a Retail Outlet Based on Hist
 4. Visualize the predictions
 
 #### Expected Project Outcome:
-1. Learn about different forecasting models like ARMA and ARIMA.
-2. Get familiar with python libraries like numpy, pandas, statsmodels and prophet.
+1. Learn about forecasting model like ARIMA.
+2. Get familiar with python libraries like numpy, pandas, statsmodels.
 3. Get familiar with industry type projects.
 
 #### Software Requirements to Implement the Project:
