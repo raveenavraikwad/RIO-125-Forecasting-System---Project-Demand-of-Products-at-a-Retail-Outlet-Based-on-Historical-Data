@@ -7,8 +7,8 @@ Forecasting System - Project Demand of Products at a Retail Outlet Based on Hist
 #### Project Guidelines :
 1. Create a dataset , clean the dataset and also sanitize it.
 2. Choose the appropriate forecasting model for the dataset.
-3. Fit the model to dataset and make predictions
-4. Visualize the predictions
+3. Fit the model to dataset and make predictions.
+4. Visualize the predictions.
 
 #### Expected Project Outcome:
 1. Learn about forecasting model like ARIMA.
